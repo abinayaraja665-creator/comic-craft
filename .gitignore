@@ -1,0 +1,10 @@
+.venv/
+venv/
+env/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.env
+.DS_Store
+static/panels/*.png
+static/exports/*.pdf
